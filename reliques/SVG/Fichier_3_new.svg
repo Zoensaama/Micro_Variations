@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6.31 28.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #152d1a;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #0f8436;
+      }
+
+      .cls-4 {
+        fill: #01724d;
+      }
+
+      .cls-5 {
+        fill: #225527;
+      }
+
+      .cls-6 {
+        fill: #1d371c;
+      }
+
+      .cls-7 {
+        fill: #29622b;
+      }
+
+      .cls-8 {
+        fill: #365624;
+      }
+
+      .cls-9 {
+        fill: #183d1e;
+      }
+
+      .cls-10 {
+        fill: #317831;
+      }
+
+      .cls-11 {
+        fill: #2f391a;
+      }
+    </style>
+  </defs>
+  <g id="Calque_2" data-name="Calque 2">
+    <g id="Calque_2-2" data-name="Calque 2-2">
+      <path class="cls-2" d="m.2,3.72S-1.03-.4,2.64.05c0,0,3.78-.89,3,4.89l.67,12-3.15,10.67S1.65,34.17.2,3.72Z"/>
+    </g>
+  </g>
+  <g id="Calque_3" data-name="Calque 3">
+    <path class="cls-8" d="m2.94.37s1.78-.21,2.06,1.54l-2.19.64.14-2.18Z"/>
+    <polygon class="cls-1" points=".58 2.48 1.12 14.02 2.84 9.6 2.51 3.14 .58 2.48"/>
+    <path class="cls-6" d="m3.01,2.96l1.84-.72s.33.65.19,1.54-.67,2.47-.67,2.47l-1.35-3.29Z"/>
+    <polygon class="cls-7" points="2.8 3.39 3.15 9.64 4.28 6.72 2.8 3.39"/>
+    <polygon class="cls-5" points="5.41 4.11 4.55 6.72 5.58 10.39 5.41 4.11"/>
+    <polygon class="cls-3" points="4.34 7.25 3.41 10.52 5.67 12.87 5.58 11.22 4.34 7.25"/>
+    <polygon class="cls-11" points="2.8 10.66 1.46 14.02 4.16 11.83 2.8 10.66"/>
+    <polygon class="cls-9" points="4.28 12.03 2.19 13.83 5.89 14.1 5.89 13.39 4.28 12.03"/>
+    <polygon class="cls-10" points="1.99 14.02 1.16 14.78 1.46 18.73 5.41 14.33 1.99 14.02"/>
+    <polygon class="cls-6" points="5.89 14.42 6.16 16.78 2.91 17.5 5.89 14.42"/>
+    <polygon class="cls-4" points="2.68 17.91 1.38 19.18 1.82 23.51 2.68 17.91"/>
+    <polygon class="cls-11" points="3.32 17.74 5.89 17.08 4.73 21.45 3.32 17.74"/>
+    <polygon class="cls-7" points="3.03 18.13 2.92 19.34 3.66 19.34 3.03 18.13"/>
+    <polygon class="cls-5" points="2.81 19.78 1.94 24.25 4.28 20.94 3.78 19.67 2.81 19.78"/>
+    <polygon class="cls-1" points="4.24 21.31 2.51 23.94 3.99 23.94 4.56 21.96 4.24 21.31"/>
+    <path class="cls-10" d="m2.03,24.6l.63-.35,1.13.16-1.03,3.59s-.73-2-.73-3.4Z"/>
+    <path class="cls-4" d="m2.69.36S.14.08.28,1.81l2.28.89.14-2.33Z"/>
+  </g>
+</svg>
